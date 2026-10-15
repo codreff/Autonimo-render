@@ -1,0 +1,6 @@
+{
+  "name": "AUTO EDIT MANGA",
+  "description": "Studio video recap manga otomatis dengan narasi dan ekspor GPU.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
